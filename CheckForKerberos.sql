@@ -1,0 +1,1 @@
+SELECT distinct auth_scheme FROM sys.dm_exec_connections
